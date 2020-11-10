@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 400px;
+    height: 400px;
+    flex-flow: row wrap;
+    background-color: #4453;
+}
+
+.item {
+    background-color: beige;
+    width: 50%;
+    height: 50px;
+}
